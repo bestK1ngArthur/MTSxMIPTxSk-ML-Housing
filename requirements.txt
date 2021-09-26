@@ -1,1 +1,5 @@
-kaggle==1.5.8 
+kaggle
+pandas
+numpy
+matplotlib
+seaborn
